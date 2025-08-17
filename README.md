@@ -14,7 +14,6 @@
 ## 🌐 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-hor%C3%A1cio-de-souza/)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/davihoracio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davihoraciosz@gmail.com)
 
 ## 🛠️ Linguagens e Ferramentas
 
