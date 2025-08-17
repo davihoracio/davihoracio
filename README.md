@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Olá, eu sou Davi
 
-<!--
-**davihoracio/davihoracio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor(a) focado(a) em **Python, Web e Automação**  
+🎨 Designer **UI/UX** apaixonado(a) por criar experiências digitais intuitivas  
+🚀 Atualmente aprendendo **[coloque sua stack principal ou curso]**  
 
-Here are some ideas to get you started:
+## 📚 Aprendizados Recentes
+- 🔥 Estudando **Linguagem C**  
+- ⚡ Projetos práticos em **Python (backend, automação e IA)**  
+- 🌱 Montando base em **HTML, CSS e JavaScript** para front-end  
+- 🎨 Praticando **UI/UX Design**: fluxos de usuário, prototipagem e heurísticas de usabilidade  
+- 📊 Concluí um **curso introdutório de Ciência de Dados pelo PET-CC/UFRN**, aprendendo fundamentos de análise, visualização e tratamento de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/seu-usuario)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+
+## 🛠️ Linguagens e Ferramentas
+
+<table width="100%">
+  <tr>
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+    </td>
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    </td>
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+    </td>
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+    </td>
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+    </td>
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+    </td>
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+    </td>
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+    </td>
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+    </td>
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
+    </td>
+  </tr>
+</table>
