@@ -2,12 +2,12 @@
 
 💻 Desenvolvedor focado em **Python, Web e Automação**  
 🎨 Designer **UI/UX** apaixonado(a) por criar experiências digitais intuitivas  
-🚀 Atualmente aprendendo **[coloque sua stack principal ou curso]**  
+🚀 Atualmente aprendendo **Python e C**  
 
 ## 📚 Aprendizados Recentes
 - 🔥 Estudando **Linguagem C**  
 - ⚡ Projetos práticos em **Python (backend, automação e IA)**  
-- 🌱 Montando base em **HTML, CSS e JavaScript** para front-end  
+- 🌱 Montando base em **HTML, CSS** para front-end  
 - 🎨 Praticando **UI/UX Design**: fluxos de usuário, prototipagem e heurísticas de usabilidade  
 - 📊 Concluí um **curso introdutório de Ciência de Dados pelo PET-CC/UFRN**, aprendendo fundamentos de análise, visualização e tratamento de dados
 
