@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Davi
 
-💻 Desenvolvedor(a) focado(a) em **Python, Web e Automação**  
+💻 Desenvolvedor focado em **Python, Web e Automação**  
 🎨 Designer **UI/UX** apaixonado(a) por criar experiências digitais intuitivas  
 🚀 Atualmente aprendendo **[coloque sua stack principal ou curso]**  
 
