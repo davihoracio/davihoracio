@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou Davi
 
-💻 Desenvolvedor focado em **Python, Web e Automação**  
+💻 Desenvolvedor focado em **Python, JavaScript e Inteligência artificial**  
 🎨 Designer **UI/UX** apaixonado(a) por criar experiências digitais intuitivas  
-🚀 Atualmente aprendendo **Python e C**  
+🚀 Atualmente aprendendo **C e ReactJS**  
 
 ## 📚 Aprendizados Recentes
 - 🔥 Estudando **Linguagem C**  
 - ⚡ Projetos práticos em **Python (backend, automação e IA)**  
-- 🌱 Montando base em **HTML, CSS** para front-end  
+- 🌱 Projetos práticos em **HTML, CSS e JavaScript** para front-end  
 - 🎨 Praticando **UI/UX Design**: fluxos de usuário, prototipagem e heurísticas de usabilidade  
 - 📊 Concluí um **curso introdutório de Ciência de Dados pelo PET-CC/UFRN**, aprendendo fundamentos de análise, visualização e tratamento de dados
 
