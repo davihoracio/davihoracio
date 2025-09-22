@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Davi
 
 💻 Desenvolvedor focado em **Python, JavaScript e Inteligência artificial**  
-🎨 Designer **UI/UX** apaixonado(a) por criar experiências digitais intuitivas  
+🎨 Designer **UI/UX** apaixonado por criar experiências digitais intuitivas  
 🚀 Atualmente aprendendo **C e ReactJS**  
 
 ## 📚 Aprendizados Recentes
