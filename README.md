@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor focado em **Python, Front-end e Inteligência artificial**  
 🎨 Designer **UI/UX** apaixonado por criar experiências digitais intuitivas  
-🚀 Atualmente aprendendo **C e ReactJS**  
+🚀 Atualmente me aprofundando em **ReactTS**  
 
 ## 📚 Aprendizados Recentes
 - 🔥 Estudando **Linguagem C**  
