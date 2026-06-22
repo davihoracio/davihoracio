@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou Davi
 
-💻 Desenvolvedor **Web e Mobile**, com foco em **React e React Native**  
+💻 Desenvolvedor **Web e Mobile**, com foco em **Django, React e React Native**  
 📊 Estudando e me aprofundando em **Ciência de Dados**  
 🎨 Designer **UI/UX** apaixonado por criar experiências digitais intuitivas  
 
 ## 📚 O que estou fazendo no momento
-- 🌐 Evoluindo no Front-end e Mobile com **React, React Native, TypeScript, JavaScript, HTML e CSS**  
-- ⚙️ Estudando e me aprofundando em Back-end com **Java e Spring Boot**  
+- 🌐 Evoluindo no Front-end e Mobile com **React e React Native**  
+- ⚙️ Estudando e me aprofundando em Back-end com **Django e Spring Boot**  
 - 📈 Praticando **Ciência de Dados** e **Bioinformática** com **Python (Pandas, Numpy, Scanpy, Scirpy, MuData, AnnData/Biopython)**  
 - 🎨 Aplicando conceitos de **UI/UX Design**: fluxos de usuário, prototipagem e heurísticas de usabilidade  
 
